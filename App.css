@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+:root{
+  --pink: #E02B64;
+  --black: #000;
+  --light-black: #010606;
+  --white: #fff;
+  --grey-white: #f7f8fa;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
